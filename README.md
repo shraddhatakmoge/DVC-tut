@@ -1,2 +1,2 @@
 # DVC-tut
-This repo impliments the idea of DVC tool
+This repo implements the idea of DVC tool
